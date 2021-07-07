@@ -1,5 +1,5 @@
 ---
-title: Test blog article
+title: Tyler said
 date: 2021-07-07T21:55:11.061Z
 description: "'This isn't really death,' Tyler says. 'We'll be legend. We won't grow old.'"
 ---
